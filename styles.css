@@ -1,0 +1,43 @@
+/******************************TAG SELECTOR************************************/
+
+body {
+  background-color: #393E46;
+}
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+}
+img{
+  height: 180px;
+}
+h1{
+  color:#00ADB5;
+}
+h3{
+  color:#00ADB5;
+}
+p{
+  color:#EEEEEE;
+}
+table{
+  color:#EEEEEE;
+}
+li{
+  color:#EEEEEE;
+}
+
+/******************************CLASS SELECTOR***********************************/
+.tableHead{
+  color:#00ADB5;
+}
+
+
+/*-------------------------ID SELECTOR---------------------------
+#heading{
+color:blue;
+}
+
+
+*/
